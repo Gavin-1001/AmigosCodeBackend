@@ -1,0 +1,24 @@
+{
+    "email":"gavin@gmail.com",
+    "imageUrl":"../images/img1.jpg",
+    "jobTitle": "JavaScript",
+    "name": "Gavin S",
+    "phone":"087654321"
+}
+
+{
+    "email":"gavin1@gmail.com",
+    "imageUrl":"../images/img3.jpg",
+    "jobTitle": "Java",
+    "name": "Gavin F",
+    "phone":"087123456"
+}
+
+{
+    "email":"g@gmail.com",
+    "imageUrl":"../images/img2.jpg",
+    "jobTitle": "Python",
+    "name": "Gavin",
+    "phone": "089725362"
+}
+
